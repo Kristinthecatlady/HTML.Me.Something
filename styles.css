@@ -7,5 +7,8 @@ div h1 {margin: auto;
 div h2 {width: 650px;
         margin: auto;}
 h2 {margin: auto;}
-body {background-color: #CCFFCC;
-}
+body {background-color: #CCFFCC;}
+
+.donkey {font-style: underline;}
+
+#shrek {margin: auto;}
